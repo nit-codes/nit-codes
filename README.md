@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @nit-codes
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning python
+- 👋 Hi, I’m NITHIN B Y
+- 👀 I’m interested in back-end programming
+- 🌱 I’m currently learning JAVA
 - 📫 You can reach me on Linkedin :https://www.linkedin.com/in/nithin-b-y-0484a0236 
 
 <!---
