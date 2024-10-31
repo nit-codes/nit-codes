@@ -1,6 +1,5 @@
  - 👋 Hi, I’m NITHIN B Y
-- 👀 I’m interested in python full stack development
-- 🌱 I’m currently learning Competitive Programming
+- 🌱 I’m currently pursuing BE in Computer science and technology
 - 📫 You can reach me on https://www.linkedin.com/in/nithin-b-y-0484a0236/
 
 <!---
